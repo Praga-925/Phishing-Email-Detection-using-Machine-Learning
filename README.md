@@ -28,16 +28,16 @@ Phishing attacks are a major cybersecurity concern, often tricking users into re
 🗂️ Folder Structure
 
 📁 EmailPhishingDetector/
-├── train_model.py # Train and save model
-├── phishing_model.pkl # Saved XGBoost model
-├── vectorizer.pkl # Saved TF-IDF vectorizer
-├── read_gmail.py # Gmail API integration
-├── telegram_notifier.py # Sends Telegram alerts
-├── app.py # Streamlit UI
-├── credentials.json # Gmail OAuth credentials
-├── token.pickle # Gmail OAuth token
-├── emails.csv # Dataset
-├── README.md # Project documentation
+├── app.py
+├── credentials.json
+├── emails.csv
+├── phishing_model.pkl
+├── README.md
+├── read_gmail.py
+├── telegram_notifier.py
+├── token.pickle
+├── train_model.py
+└── vectorizer.pkl
 
 📊 How It Works
 
