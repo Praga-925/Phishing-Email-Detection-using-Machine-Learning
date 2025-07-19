@@ -17,7 +17,7 @@ Phishing attacks are a major cybersecurity concern, often tricking users into re
 
 🛠️ Tech Stack
 
-- Language: Python 3.x  
+- Language: Python 3.10.9
 - Machine Learning: XGBoost, scikit-learn  
 - Text Vectorization: TF-IDF  
 - APIs: Gmail API, Telegram Bot API  
@@ -27,7 +27,7 @@ Phishing attacks are a major cybersecurity concern, often tricking users into re
 
 🗂️ Folder Structure
 
-📁 '''EmailPhishingDetector/
+📁 EmailPhishingDetector/
 ├── app.py
 ├── credentials.json
 ├── emails.csv
@@ -37,7 +37,7 @@ Phishing attacks are a major cybersecurity concern, often tricking users into re
 ├── telegram_notifier.py
 ├── token.pickle
 ├── train_model.py
-└── vectorizer.pkl'''
+└── vectorizer.pkl
 
 
 📊 How It Works
