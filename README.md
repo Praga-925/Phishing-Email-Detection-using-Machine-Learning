@@ -27,7 +27,7 @@ Phishing attacks are a major cybersecurity concern, often tricking users into re
 
 🗂️ Folder Structure
 
-📁 EmailPhishingDetector/
+📁 '''EmailPhishingDetector/
 ├── app.py
 ├── credentials.json
 ├── emails.csv
@@ -37,7 +37,8 @@ Phishing attacks are a major cybersecurity concern, often tricking users into re
 ├── telegram_notifier.py
 ├── token.pickle
 ├── train_model.py
-└── vectorizer.pkl
+└── vectorizer.pkl'''
+
 
 📊 How It Works
 
